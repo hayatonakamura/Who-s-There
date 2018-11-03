@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# The contents of this file are in the public domain. See LICENSE_FOR_EXAMPLE_PROGRAMS.txt
 #
 #   This example shows how to use dlib's face recognition tool.  This tool maps
 #   an image of a human face to a 128 dimensional vector space where images of
