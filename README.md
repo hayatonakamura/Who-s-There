@@ -8,11 +8,11 @@ Night Vision Pi Camera: https://www.amazon.com/Raspberry-Camera-Module-Vision-Se
 
 ## Software Requirements
 
-'''
+```
 pip install dlib
 python setup.py install
 sudo apt-get install cmake
 pip install scikit-image
-'''
+```
 
 This program is designed to take a photo of the user's face, recognize it from the database of user faces, and open the door of the room if the user has the necessary access. 
