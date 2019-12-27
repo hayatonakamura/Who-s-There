@@ -5,6 +5,7 @@ Developed by Hayato Nakamura (Experimental) using the implementation on https://
 
 Raspberry Pi 3 B+: https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
 Night Vision Pi Camera: https://www.amazon.com/Raspberry-Camera-Module-Vision-Sensor/dp/B07J1XWD9C/ref=sr_1_1_sspa?ie=UTF8&qid=1541211263&sr=8-1-spons&keywords=pi+night+vision&psc=1
+Servo Motor:
 
 ## Software Requirements
 
